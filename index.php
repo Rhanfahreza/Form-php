@@ -222,13 +222,15 @@
             <select name="agama" id="agama">
                 <option value="">-- Pilih Agama --</option>
                 <option value="Islam">Islam</option>
+                <option value="Islamnahdlatul ulama">Islam Nahdlatul Ulama</option>
+                <option value="Islamktp">Islam ktp</option>
+                <option value="IslamMuhammaddiyah">Islam Muhammaddiyah</option>
                 <option value="Kristen">Kristen</option>
                 <option value="Katolik">Katolik</option>
                 <option value="Hindu">Hindu</option>
                 <option value="Budha">Budha</option>
                 <option value="Konghucu">Konghucu</option>
                 <option value="Ateis">Ateis</option>
-                <option value="Sekte">Sekte</option>
 
             </select>
         </div>
