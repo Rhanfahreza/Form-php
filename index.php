@@ -230,7 +230,7 @@
                 <option value="Hindu">Hindu</option>
                 <option value="Budha">Budha</option>
                 <option value="Konghucu">Konghucu</option>
-                <option value="Ateis">Ateis</option>
+                <option value="Ateis">Atheis</option>
 
             </select>
         </div>
